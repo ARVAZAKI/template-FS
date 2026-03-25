@@ -1,0 +1,7 @@
+# Placeholder for store slices
+# Contoh slice untuk Zustand:
+#
+# export const companySlice = (set) => ({
+#   company: null,
+#   setCompany: (data) => set({ company: data }),
+# })
